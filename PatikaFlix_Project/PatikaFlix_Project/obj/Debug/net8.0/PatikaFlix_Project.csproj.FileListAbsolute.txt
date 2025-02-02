@@ -1,0 +1,14 @@
+C:\Users\caplo\source\repos\PatikaFlix_Project\PatikaFlix_Project\bin\Debug\net8.0\PatikaFlix_Project.exe
+C:\Users\caplo\source\repos\PatikaFlix_Project\PatikaFlix_Project\bin\Debug\net8.0\PatikaFlix_Project.deps.json
+C:\Users\caplo\source\repos\PatikaFlix_Project\PatikaFlix_Project\bin\Debug\net8.0\PatikaFlix_Project.runtimeconfig.json
+C:\Users\caplo\source\repos\PatikaFlix_Project\PatikaFlix_Project\bin\Debug\net8.0\PatikaFlix_Project.dll
+C:\Users\caplo\source\repos\PatikaFlix_Project\PatikaFlix_Project\bin\Debug\net8.0\PatikaFlix_Project.pdb
+C:\Users\caplo\source\repos\PatikaFlix_Project\PatikaFlix_Project\obj\Debug\net8.0\PatikaFlix_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caplo\source\repos\PatikaFlix_Project\PatikaFlix_Project\obj\Debug\net8.0\PatikaFlix_Project.AssemblyInfoInputs.cache
+C:\Users\caplo\source\repos\PatikaFlix_Project\PatikaFlix_Project\obj\Debug\net8.0\PatikaFlix_Project.AssemblyInfo.cs
+C:\Users\caplo\source\repos\PatikaFlix_Project\PatikaFlix_Project\obj\Debug\net8.0\PatikaFlix_Project.csproj.CoreCompileInputs.cache
+C:\Users\caplo\source\repos\PatikaFlix_Project\PatikaFlix_Project\obj\Debug\net8.0\PatikaFlix_Project.dll
+C:\Users\caplo\source\repos\PatikaFlix_Project\PatikaFlix_Project\obj\Debug\net8.0\refint\PatikaFlix_Project.dll
+C:\Users\caplo\source\repos\PatikaFlix_Project\PatikaFlix_Project\obj\Debug\net8.0\PatikaFlix_Project.pdb
+C:\Users\caplo\source\repos\PatikaFlix_Project\PatikaFlix_Project\obj\Debug\net8.0\PatikaFlix_Project.genruntimeconfig.cache
+C:\Users\caplo\source\repos\PatikaFlix_Project\PatikaFlix_Project\obj\Debug\net8.0\ref\PatikaFlix_Project.dll
